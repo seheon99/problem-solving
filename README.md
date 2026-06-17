@@ -41,12 +41,14 @@ $\huge{\rm{\color{#27e2a4}Platinum V}}$까지 **+110** 남음
 | ------- |
 | [0035-search-insert-position](https://github.com/seheon99/baekjoon/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/seheon99/problem-solving/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/seheon99/problem-solving/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/seheon99/baekjoon/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/seheon99/baekjoon/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/seheon99/problem-solving/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/seheon99/problem-solving/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
