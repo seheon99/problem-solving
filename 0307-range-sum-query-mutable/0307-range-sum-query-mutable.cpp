@@ -1,5 +1,4 @@
 #include <vector>
-#include <iostream>
 
 class NumArray {
 public:
