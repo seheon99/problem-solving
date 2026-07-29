@@ -41,6 +41,7 @@ $\huge{\rm{\color{#27e2a4}Platinum V}}$까지 **+110** 남음
 | ------- |
 | [0035-search-insert-position](https://github.com/seheon99/baekjoon/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/seheon99/problem-solving/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/seheon99/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/seheon99/problem-solving/tree/master/0307-range-sum-query-mutable) |
 | [0704-binary-search](https://github.com/seheon99/problem-solving/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/seheon99/problem-solving/tree/master/0729-my-calendar-i) |
@@ -61,6 +62,7 @@ $\huge{\rm{\color{#27e2a4}Platinum V}}$까지 **+110** 남음
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/seheon99/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/seheon99/problem-solving/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -92,6 +94,7 @@ $\huge{\rm{\color{#27e2a4}Platinum V}}$까지 **+110** 남음
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/seheon99/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/seheon99/problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -101,4 +104,12 @@ $\huge{\rm{\color{#27e2a4}Platinum V}}$까지 **+110** 남음
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/seheon99/problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/seheon99/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/seheon99/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
