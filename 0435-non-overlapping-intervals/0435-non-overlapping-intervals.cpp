@@ -10,9 +10,10 @@ public:
         for (const auto& interval : intervals) {
             if (final <= interval[0]) {
                 final = interval[1];
+            } else {
                 ++count;
             }
         }
-        return intervals.size() - count;
+        return count;
     }
 };
