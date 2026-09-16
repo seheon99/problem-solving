@@ -5,7 +5,7 @@ public:
                                                  {
                                                     return a[1] < b[1];
                                                  });
-        int final = -50000;
+        int final = -50'000;
         int count = 0;
         for (const auto& interval : intervals) {
             if (final <= interval[0]) {
