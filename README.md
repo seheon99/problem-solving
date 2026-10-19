@@ -12,6 +12,7 @@
 | [0704-binary-search](https://github.com/seheon99/problem-solving/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/seheon99/problem-solving/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/seheon99/problem-solving/tree/master/0875-koko-eating-bananas) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/seheon99/problem-solving/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2402-meeting-rooms-iii](https://github.com/seheon99/problem-solving/tree/master/2402-meeting-rooms-iii) |
 ## Binary Search
 |  |
@@ -22,6 +23,7 @@
 | [0704-binary-search](https://github.com/seheon99/problem-solving/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/seheon99/problem-solving/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/seheon99/problem-solving/tree/master/0875-koko-eating-bananas) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/seheon99/problem-solving/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Math
 |  |
 | ------- |
