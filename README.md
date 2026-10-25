@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/seheon99/baekjoon/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/seheon99/problem-solving/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/seheon99/problem-solving/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/seheon99/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/seheon99/problem-solving/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
@@ -134,6 +136,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/seheon99/problem-solving/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/seheon99/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Matrix
 |  |
