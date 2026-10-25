@@ -111,6 +111,7 @@
 | [0322-coin-change](https://github.com/seheon99/problem-solving/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/seheon99/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/seheon99/problem-solving/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/seheon99/problem-solving/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -157,4 +158,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/seheon99/problem-solving/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/seheon99/problem-solving/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/seheon99/problem-solving/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
