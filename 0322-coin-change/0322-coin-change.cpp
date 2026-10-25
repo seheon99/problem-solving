@@ -4,7 +4,8 @@ class Solution {
 public:
     int cache[N_MAX + 1];
     bool visited[N_MAX + 1];
-    int coinChange(vector<int>& coins, int amount) {
+
+    int dp(vector<int>& coins, int amount) {
         if (amount == 0) {
             return 0;
         }
@@ -30,5 +31,10 @@ public:
             }
         }
         return cache[amount];
+    }
+
+    int coinChange(vector<int>& coins, int amount) {
+        std::sort(coins.begin(), coins.end());
+        return dp(coins, amount);
     }
 };
