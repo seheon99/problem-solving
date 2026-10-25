@@ -15,7 +15,7 @@ public:
             cache[amount] = -1;
             for (auto coin : coins) {
                 if (amount - coin < 0) {
-                    continue;
+                    break;
                 }
 
                 int prev = coinChange(coins, amount - coin);
