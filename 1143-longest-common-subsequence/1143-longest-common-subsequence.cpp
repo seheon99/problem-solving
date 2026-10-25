@@ -5,19 +5,22 @@ public:
     int cache[MAX_LENGTH + 1][MAX_LENGTH + 1] = {};
     bool visited[MAX_LENGTH + 1][MAX_LENGTH + 1] = {};
 
-    int dp(const string& text1, const string& text2, int i, int j) {
-        if (i == text1.size() || j == text2.size()) {
+    string t1;
+    string t2;
+
+    int dp(int i, int j) {
+        if (i == t1.size() || j == t2.size()) {
             return 0;
         }
 
         if (!visited[i][j]) {
             visited[i][j] = true;
-            if (text1[i] == text2[j]) {
-                cache[i][j] = dp(text1, text2, i + 1, j + 1) + 1;
+            if (t1[i] == t2[j]) {
+                cache[i][j] = dp(i + 1, j + 1) + 1;
             } else {
                 cache[i][j] = std::max(
-                    dp(text1, text2, i + 1, j),
-                    dp(text1, text2, i, j + 1)
+                    dp(i + 1, j),
+                    dp(i, j + 1)
                 );
             }
         }
@@ -25,6 +28,8 @@ public:
     }
 
     int longestCommonSubsequence(string text1, string text2) {
-        return dp(text1, text2, 0, 0);
+        t1 = text1;
+        t2 = text2;
+        return dp(0, 0);
     }
 };
