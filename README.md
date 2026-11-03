@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/seheon99/baekjoon/tree/master/0035-search-insert-position) |
+| [0118-pascals-triangle](https://github.com/seheon99/problem-solving/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/seheon99/problem-solving/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seheon99/problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/seheon99/problem-solving/tree/master/0307-range-sum-query-mutable) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/seheon99/problem-solving/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/seheon99/problem-solving/tree/master/0118-pascals-triangle) |
 | [0312-burst-balloons](https://github.com/seheon99/problem-solving/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/seheon99/problem-solving/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/seheon99/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
