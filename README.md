@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/seheon99/problem-solving/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/seheon99/problem-solving/tree/master/0729-my-calendar-i) |
 | [0875-koko-eating-bananas](https://github.com/seheon99/problem-solving/tree/master/0875-koko-eating-bananas) |
+| [1395-count-number-of-teams](https://github.com/seheon99/problem-solving/tree/master/1395-count-number-of-teams) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/seheon99/problem-solving/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2402-meeting-rooms-iii](https://github.com/seheon99/problem-solving/tree/master/2402-meeting-rooms-iii) |
 ## Binary Search
@@ -48,11 +49,13 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/seheon99/problem-solving/tree/master/0307-range-sum-query-mutable) |
+| [1395-count-number-of-teams](https://github.com/seheon99/problem-solving/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/seheon99/problem-solving/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/seheon99/problem-solving/tree/master/0729-my-calendar-i) |
+| [1395-count-number-of-teams](https://github.com/seheon99/problem-solving/tree/master/1395-count-number-of-teams) |
 ## Ordered Set
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/seheon99/problem-solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/seheon99/problem-solving/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/seheon99/problem-solving/tree/master/1143-longest-common-subsequence) |
+| [1395-count-number-of-teams](https://github.com/seheon99/problem-solving/tree/master/1395-count-number-of-teams) |
 ## Greedy
 |  |
 | ------- |
