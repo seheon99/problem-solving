@@ -11,7 +11,7 @@ jobs:
     name: Refresh README.md
     steps:
       - uses: actions/checkout@v4
-      - uses: seheon99/baekjoon-summary@cab8d4dcb98b4c90671ecc4b2ca84bfded609bfe
+      - uses: seheon99/baekjoon-summary@42f15f0e73dda226e47a944e444998546c8f6693
         with:
           username: seheon99
           client-id: 47a4133c2e50842afe6e8182
