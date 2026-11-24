@@ -1,6 +1,8 @@
 <!-- START AUTO-UPDATE -->
 [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seheon99)](https://solved.ac/seheon99)
 
+![Tags](https://solvedac-cards.seheon.kr/tags/seheon99?text=true) ![Problems](https://solvedac-cards.seheon.kr/problems/seheon99)
+
 $\huge{\rm{\color{#27e2a4}Platinum V}}$까지 **+90** 남음
 
 ## 레이팅 종합
