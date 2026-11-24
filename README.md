@@ -38,16 +38,6 @@ xychart-beta
     bar [82, 64, 44, 42, 40, 27, 24, 14, 11, 7, 5, 4, 4, 3, 1]
 ```
 
-```mermaid
-pie title 상위 6개 태그
-    "impl" : 82
-    "math" : 64
-    "ds" : 44
-    "dp" : 42
-    "graph" : 40
-    "string" : 27
-```
-
 | Tag | Solved | Rating |
 | --- | -----: | -----: |
 | [impl](https://solved.ac/problems/tags/impl) | 82 | Silver I (762) |
