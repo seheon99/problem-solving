@@ -11,6 +11,8 @@ jobs:
     name: Refresh README.md
     steps:
       - uses: actions/checkout@v4
-      - uses: seheon99/baekjoon-summary@8411607dcbf3f7c4a207d04251e3a38afc456204
+      - uses: seheon99/baekjoon-summary@9ee44c097c07a2e7d87defd49d5452193a4cec13
         with:
           username: seyu
+          client-id: 47a4133c2e50842afe6e8182
+          client-secret: ${{ secrets.SOLVEDAC_API_KEY }}
