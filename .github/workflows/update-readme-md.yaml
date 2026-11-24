@@ -13,6 +13,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: seheon99/baekjoon-summary@9ee44c097c07a2e7d87defd49d5452193a4cec13
         with:
-          username: seyu
+          username: seheon99
           client-id: 47a4133c2e50842afe6e8182
           client-secret: ${{ secrets.SOLVEDAC_API_KEY }}
