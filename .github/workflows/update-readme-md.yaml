@@ -1,6 +1,7 @@
 name: Refresh README.md
 run-name: ${{ github.event.workflow_run.head_commit.message }}
 on:
+  workflow_dispatch:
   push:
     paths:
       - "백준/**"
