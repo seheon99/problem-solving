@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Refresh README.md
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: seheon99/solvedac-summary@main
         with:
           username: seheon99
