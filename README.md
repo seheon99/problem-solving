@@ -1,9 +1,9 @@
 # problem-solving
 
 <!-- START AUTO-UPDATE -->
-[![solved.ac Profile](https://solvedac-cards.seheon.kr/profile/seheon99?color=light)](https://solved.ac/seheon99)
+<a href="https://solved.ac/seheon99"><img alt="solved.ac Profile" src="https://solvedac-cards.seheon.kr/profile/seheon99?color=light" width="704"></a>
 
-![Summary](https://solvedac-cards.seheon.kr/summary/seheon99?color=light)
+<img alt="Summary" src="https://solvedac-cards.seheon.kr/summary/seheon99?color=light" width="704">
 
 ## 레이팅 변화
 
