@@ -14,5 +14,3 @@ jobs:
       - uses: seheon99/solvedac-summary@main
         with:
           username: seheon99
-          client-id: 47a4133c2e50842afe6e8182
-          client-secret: ${{ secrets.SOLVEDAC_API_KEY }}
