@@ -23,7 +23,7 @@
 ## 자동 업데이트 파이프라인
 
 ```mermaid
-flowchart LR
+flowchart
   solve(문제 풀기)
   detect(<code>problem-archiving</code> 에서<br>GitHub 으로 코드 커밋)
   action(<code>solvedac-summary</code> 액션으로<br><code>README.md</code> 업데이트)
