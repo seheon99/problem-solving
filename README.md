@@ -1,3 +1,5 @@
+# problem-solving
+
 <!-- START AUTO-UPDATE -->
 [![solved.ac Profile](https://solvedac-cards.seheon.kr/profile/seheon99?color=light)](https://solved.ac/seheon99)
 
@@ -19,14 +21,3 @@
 
 ![Problems](https://solvedac-cards.seheon.kr/problems/seheon99?color=light)
 <!-- END AUTO-UPDATE -->
-
-## 자동 업데이트 파이프라인
-
-```mermaid
-flowchart
-  solve(문제 풀기)
-  detect(problem-archiving 에서<br>GitHub 으로 코드 커밋)
-  show(solvedac-cards 에서 데이터 렌더링)
-
-  solve --> detect --> show
-```
