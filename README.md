@@ -28,5 +28,5 @@ flowchart
   detect(problem-archiving 에서<br>GitHub 으로 코드 커밋)
   show(solvedac-cards 에서 데이터 렌더링)
 
-  solve --> detect --> action --> show
+  solve --> detect --> show
 ```
