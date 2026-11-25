@@ -11,7 +11,7 @@ jobs:
     name: Refresh README.md
     steps:
       - uses: actions/checkout@v4
-      - uses: seheon99/solvedac-summary@aa041f2295d60de1559ee345233e4008cebc090c
+      - uses: seheon99/solvedac-summary@main
         with:
           username: seheon99
           client-id: 47a4133c2e50842afe6e8182
