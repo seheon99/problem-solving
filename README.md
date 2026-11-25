@@ -2,9 +2,9 @@
 
 ## solved.ac
 
-<a href="https://solved.ac/seheon99"><img alt="solved.ac Profile" src="https://ps-cards.seheon.kr/solvedac/profile/seheon99?color=light" width="704"></a>
+<a href="https://solved.ac/seheon99"><img alt="solved.ac Profile" src="https://ps-cards.seheon.kr/solvedac/profile/seheon99?color=light"></a>
 
-<img alt="Rating summary" src="https://ps-cards.seheon.kr/solvedac/summary/seheon99?color=light" width="704">
+<img alt="Rating summary" src="https://ps-cards.seheon.kr/solvedac/summary/seheon99?color=light">
 
 ### 레이팅 변화
 
