@@ -1,7 +1,15 @@
 <!-- START AUTO-UPDATE -->
-[![solved.ac Profile](https://solvedac-cards.seheon.kr/profile/seheon99)](https://solved.ac/seheon99)
+[![solved.ac Profile](https://solvedac-cards.seheon.kr/profile/seheon99?color=light)](https://solved.ac/seheon99)
 
 $\huge{\rm{\color{#27e2a4}Platinum V}}$까지 **+89** 남음
+
+## 레이팅 변화
+
+![Rating](https://solvedac-cards.seheon.kr/rating/seheon99?color=light)
+
+## 스트릭
+
+![Streak](https://solvedac-cards.seheon.kr/streak/seheon99?color=light)
 
 ## 레이팅 종합
 
@@ -30,9 +38,9 @@ $\huge{\rm{\color{#27e2a4}Platinum V}}$까지 **+89** 남음
 
 ## 태그별 통계
 
-![Tags](https://solvedac-cards.seheon.kr/tags/seheon99)
+![Tags](https://solvedac-cards.seheon.kr/tags/seheon99?color=light)
 
 ## 난이도 분포
 
-![Problems](https://solvedac-cards.seheon.kr/problems/seheon99)
+![Problems](https://solvedac-cards.seheon.kr/problems/seheon99?color=light)
 <!-- END AUTO-UPDATE -->
