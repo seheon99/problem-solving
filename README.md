@@ -19,3 +19,15 @@
 
 ![Problems](https://solvedac-cards.seheon.kr/problems/seheon99?color=light)
 <!-- END AUTO-UPDATE -->
+
+## 자동 업데이트 파이프라인
+
+```mermaid
+flowchart LR
+  solve(문제 풀기)
+  detect(<code>problem-archiving</code> 에서 GitHub 으로 코드 커밋)
+  action(<code>solvedac-summary</code> 액션으로 <code>README.md</code> 업데이트)
+  show(<code>solvedac-cards</code> 에서 데이터 렌더링)
+
+  solve --> detect --> action --> show
+```
